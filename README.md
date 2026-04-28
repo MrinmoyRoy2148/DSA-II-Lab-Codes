@@ -9,5 +9,5 @@ Linked List
 Stack & Queue
 Trees
 Graphs (basic)
-💻 Language
+\n💻 Language
 C++
